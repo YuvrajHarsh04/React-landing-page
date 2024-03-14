@@ -1,3 +1,9 @@
+<h1>Output</h1>
+
+<img width="891" alt="Screenshot 2024-03-14 at 9 53 53 PM" src="https://github.com/YuvrajHarsh04/React-landing-page/assets/117851620/b489a20c-60a0-4209-aad8-f5f1546ed03e">
+
+
+
 <h1>React Landing Page</h1>
 
 This is a simple landing page created using React framework. It includes components such as a navbar and main content section.
